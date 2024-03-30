@@ -50,7 +50,5 @@ Before running this project, ensure you have the following dependencies installe
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
 
-We acknowledge the support and resources provided by (any acknowledgements you want to include).
 
