@@ -1,6 +1,6 @@
 # Toronto Cityscape with Van Gogh's Starry Night - Neural Style Transfer
 
-![Toronto Cityscape with Van Gogh's Starry Night](example_image.jpg)
+![Toronto Cityscape with Van Gogh's Starry Night](Generated-Images.jpg)
 
 ## Overview
 
