@@ -15,8 +15,7 @@ Before running this project, ensure you have the following dependencies installe
 - Keras
 - NumPy
 - OpenCV
-- (Any other specific libraries you used)
-
+- PIL
 ## Usage
 
 1. **Clone the Repository:**
