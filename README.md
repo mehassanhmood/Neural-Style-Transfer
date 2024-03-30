@@ -31,27 +31,20 @@ Before running this project, ensure you have the following dependencies installe
     cd your_project
     ```
 
-3. **Run the Neural Style Transfer Script:**
+3. **Pass the image paths to the Neural Style Transfer Notebook:**
 
-    ```bash
-    python neural_style_transfer.py --content_image toronto_cityscape.jpg --style_image starry_night.jpg --output_image styled_toronto.jpg
-    ```
 
-    Replace `toronto_cityscape.jpg` with your Toronto cityscape image and `starry_night.jpg` with your Van Gogh's Starry Night image. Adjust the `--output_image` flag to specify the name of the styled output image.
+    Replace `toronto_cityscape.jpg` with your Toronto cityscape image and `starry_night.jpg` with your Van Gogh's Starry Night image. Adjust the output code block to specify the name of the styled output images.
 
 4. **View the Result:**
 
     Once the script finishes execution, you can find the styled output image in the project directory.
 
-## Example
-
-![Example of Styled Toronto Cityscape](styled_toronto.jpg)
 
 ## Credits
 
 - Vincent van Gogh for his masterpiece, Starry Night.
 - [University of Oxford's Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) for providing the VGG-19 model.
-- (Any other sources or libraries you used)
 
 ## License
 
