@@ -22,7 +22,7 @@ Before running this project, ensure you have the following dependencies installe
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your_username/your_project.git
+    git clone https://github.com/your_username/your_project.git](https://github.com/mehassanhmood/Neural-Style-Transfer.git
     ```
 
 2. **Navigate to the Project Directory:**
